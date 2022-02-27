@@ -1,0 +1,89 @@
+div{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    
+}
+section{
+    margin:auto;
+    height: 620px;
+    width: fit-content;
+    border-left: black solid 5px;
+    border-right: black solid 5px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.First-half{
+    
+    width: 900px;
+    height: 300px;
+    position: relative;
+    top: 10px;
+}
+.one{
+    width: 300px;
+    height: 300px;
+    background-color: #fd1d29;
+    position: absolute;
+    left: 0;
+
+}
+.two{
+    width:500px;
+    height:150px;
+    background-color: #edfd1d;
+    position: absolute;
+    left:300px;
+    top:0;
+
+}
+.four{
+    width:500px;
+    height:150px;
+    background-color: #0d8c35;
+    position: absolute;
+    left:300px;
+    top:150px;
+}
+.three{
+    width: 100px;
+    height: 300px;
+    background-color:#e4007f;
+    position: absolute;
+    left: 800px;
+    
+}
+.Second-half{
+margin-top: 10px;
+width: 900px;
+    height: 300px;
+    position: relative;
+}
+.five{
+    width:500px;
+    height:150px;
+    background-color: #ee910e;
+}
+.six{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left:500px;
+    top:0;
+    background-color: #0eb8ee;
+}
+.eight{
+    width: 650px;
+    height: 150px;
+    background-color: #997a40;
+}
+.seven{
+    width:250px;
+    height: 300px;
+    position: absolute;
+    left:650px;
+    top:0;
+    background-color:#6232ad;
+}
